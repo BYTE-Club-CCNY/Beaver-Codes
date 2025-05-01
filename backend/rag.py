@@ -1,6 +1,5 @@
-from llama_index.core import VectorStoreIndex, SimpleDirectoryReader
+from llama_index.core import VectorStoreIndex, SimpleDirectoryReader, StorageContext
 from llama_index.vector_stores.chroma import ChromaVectorStore
-from llama_index.core import StorageContext
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 from IPython.display import Markdown, display
 import chromadb
@@ -11,8 +10,7 @@ import openai
 
 # load api key from .env and set up openai
 load_dotenv()
-api_key = os.getenv("API_KEY")
-openai.api_key = api_key
+openai.api_key = os.getenv("OPENAI_API_KEY") or os.getenv("API_KEY")
 
 # create new client and collection
 chroma_client = chromadb.EphemeralClient()
