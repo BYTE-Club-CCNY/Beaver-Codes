@@ -30,3 +30,7 @@ storage_context = StorageContext.from_defaults(vector_store=vector_store)
 index = VectorStoreIndex.from_documents(
     docs, storage_context=storage_context, embed_model=embed_model
 )
+
+query_engine  = index.as_query_engine()
+response = query_engine.query("Hello, what is your name and what is your purpose?")
+print(response)
