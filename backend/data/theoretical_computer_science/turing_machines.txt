@@ -1,0 +1,22 @@
+Turing Machines are abstract computational models introduced by Alan Turing in 1936. They form the foundation of the theory of computation.
+
+A Turing Machine consists of:
+- A finite set of states
+- An infinite tape divided into cells
+- A tape head that reads and writes symbols
+- A transition function that dictates actions based on current state and tape symbol
+
+Operations:
+- Read symbol from tape
+- Write a new symbol
+- Move head left or right
+- Change internal state
+
+Turing Machines can simulate any algorithm and are used to define what is "computable." If a problem can be solved by a Turing Machine, it's considered Turing-computable.
+
+Variants:
+- Deterministic Turing Machine (DTM)
+- Non-deterministic Turing Machine (NTM)
+- Multi-tape and universal Turing Machines
+
+The Church-Turing thesis posits that any function computable by an algorithm can be computed by a Turing Machine.
