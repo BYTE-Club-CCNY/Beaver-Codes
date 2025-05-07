@@ -1,0 +1,6 @@
+Divide and Conquer algorithms break a problem into subproblems, solve each recursively, and combine the results.
+Common examples:
+- Merge Sort
+- Quick Sort
+- Binary Search
+- Closest Pair of Points

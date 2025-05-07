@@ -1,0 +1,7 @@
+Sorting algorithms arrange elements in a list in a particular order.
+Common sorting algorithms include:
+- Bubble Sort: O(n^2), compares adjacent pairs.
+- Insertion Sort: O(n^2), builds sorted list one element at a time.
+- Merge Sort: O(n log n), divides list and merges sorted sublists.
+- Quick Sort: O(n log n) average, O(n^2) worst, partitions around pivot.
+- Heap Sort: O(n log n), uses heap data structure.

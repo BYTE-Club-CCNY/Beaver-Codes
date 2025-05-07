@@ -1,0 +1,7 @@
+Good software design makes systems maintainable, scalable, and readable.
+Key principles:
+- SOLID (Single Responsibility, Open/Closed, Liskov, Interface Segregation, Dependency Inversion)
+- DRY (Don't Repeat Yourself)
+- KISS (Keep It Simple, Stupid)
+- YAGNI (You Ain't Gonna Need It)
+Also includes design patterns: Singleton, Factory, Observer, MVC

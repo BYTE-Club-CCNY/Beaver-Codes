@@ -1,0 +1,6 @@
+Greedy algorithms build up a solution piece by piece, always choosing the next best option.
+They do not always yield the optimal solution but are efficient for certain problems.
+Examples:
+- Activity Selection Problem
+- Huffman Coding
+- Dijkstra's Algorithm (shortest path with positive weights)
