@@ -1,0 +1,8 @@
+The CPU (Central Processing Unit) is the brain of a computer, responsible for executing instructions.
+Components:
+- ALU (Arithmetic Logic Unit): performs calculations
+- CU (Control Unit): directs operations of the processor
+- Registers: small fast memory locations
+Architecture types:
+- Von Neumann architecture
+- Harvard architecture

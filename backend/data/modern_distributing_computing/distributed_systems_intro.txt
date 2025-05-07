@@ -1,0 +1,6 @@
+Distributed systems consist of multiple independent computers that work together to appear as a single system.
+Key features:
+- Concurrency of components
+- Lack of a global clock
+- Independent failures of components
+Examples: web servers, distributed databases, microservices.

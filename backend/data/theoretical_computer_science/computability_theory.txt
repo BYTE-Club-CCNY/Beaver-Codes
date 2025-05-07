@@ -1,0 +1,6 @@
+Computability theory studies what problems can or cannot be solved by algorithms.
+Key concepts:
+- Decidable problems: solvable by Turing Machines (e.g., string acceptance)
+- Undecidable problems: no algorithm exists (e.g., Halting Problem)
+- Reductions: transform one problem into another
+- Recursive and recursively enumerable languages

@@ -1,0 +1,6 @@
+Many modern languages support multiple paradigms to give developers flexibility.
+Examples:
+- Python: supports imperative, object-oriented, and functional styles
+- JavaScript: supports imperative, functional, and event-driven programming
+- Scala: blends object-oriented and functional features
+Using multiple paradigms enables writing cleaner and more adaptable code.

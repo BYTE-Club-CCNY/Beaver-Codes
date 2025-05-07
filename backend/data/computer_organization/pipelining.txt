@@ -1,0 +1,12 @@
+Pipelining improves CPU performance by overlapping instruction execution.
+Stages (classic 5-stage):
+- Fetch
+- Decode
+- Execute
+- Memory Access
+- Write Back
+Hazards:
+- Data hazards
+- Control hazards
+- Structural hazards
+Techniques like forwarding and branch prediction help reduce stalls.

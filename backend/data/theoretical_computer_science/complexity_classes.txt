@@ -1,0 +1,8 @@
+Complexity theory classifies problems based on computational resources.
+Important classes:
+- P: Solvable in polynomial time
+- NP: Verifiable in polynomial time
+- NP-Complete: Hardest problems in NP (e.g., SAT)
+- PSPACE: Solvable with polynomial memory
+- EXP: Requires exponential time
+Relationships among these classes are a central focus in computer science.

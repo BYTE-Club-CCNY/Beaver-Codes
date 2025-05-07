@@ -1,0 +1,7 @@
+Object-Oriented Programming (OOP) organizes code into objects that combine data and behavior.
+Languages: Java, C++, Python
+Core principles:
+- Encapsulation: bundling data and methods
+- Inheritance: reuse and extension of behavior
+- Polymorphism: same interface, different implementations
+- Abstraction: hide internal implementation details

@@ -1,0 +1,7 @@
+Fault tolerance is the ability of a system to continue functioning in the presence of failures.
+Techniques include:
+- Replication
+- Checkpointing
+- Heartbeats and failure detection
+- Consensus protocols (e.g., Paxos, Raft)
+Goal: ensure availability, reliability, and data integrity.
