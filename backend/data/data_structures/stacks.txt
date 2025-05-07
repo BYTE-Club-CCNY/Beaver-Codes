@@ -1,0 +1,11 @@
+Stacks are Last-In-First-Out (LIFO) data structures. Elements are added and removed from the same end: the top.
+
+Operations:
+- push(x): Add x to top (O(1))
+- pop(): Remove and return top (O(1))
+- peek(): Return top without removing (O(1))
+
+Applications:
+- Function call stack
+- Undo operations
+- Expression parsing (infix → postfix)

@@ -1,0 +1,8 @@
+Arrays are fixed-size collections of elements stored in contiguous memory locations. Each element is accessible by its index (zero-based).
+
+Key Operations:
+- Access: O(1)
+- Insert/Delete (at end): O(1) if space allows
+- Insert/Delete (at beginning or middle): O(n)
+
+Arrays are ideal when frequent random access is needed, but resizing can be costly.

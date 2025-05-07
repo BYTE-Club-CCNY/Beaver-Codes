@@ -1,0 +1,11 @@
+Linked lists are dynamic, non-contiguous data structures made of nodes where each node stores data and a reference to the next node.
+
+Types:
+- Singly Linked List: one direction
+- Doubly Linked List: two directions (next and prev)
+- Circular Linked List: tail node links to head
+
+Key Operations:
+- Insertion/Deletion (at head): O(1)
+- Search: O(n)
+- No random access

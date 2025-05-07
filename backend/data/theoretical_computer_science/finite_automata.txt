@@ -1,0 +1,23 @@
+Finite Automata (FA) are simple computational models used to recognize patterns and define regular languages.
+
+A Finite Automaton consists of:
+- A finite set of states
+- An input alphabet (set of allowed symbols)
+- A transition function
+- A start state
+- A set of accepting (final) states
+
+Types of Finite Automata:
+- Deterministic Finite Automaton (DFA): One possible transition per input symbol
+- Non-deterministic Finite Automaton (NFA): Multiple or no transitions per input symbol
+
+DFAs and NFAs are equivalent in terms of the languages they recognize — both define regular languages.
+
+Applications:
+- Lexical analyzers in compilers
+- Pattern matching
+- Network protocol validation
+- Regex engines
+
+Limitations:
+Finite Automata cannot recognize context-free languages or languages that require memory beyond the current state.
