@@ -2,4 +2,4 @@
 .venv
 *.gguf
 backend/db
-backend/db/*.sqlite
+backend/db/*.sqlite3
