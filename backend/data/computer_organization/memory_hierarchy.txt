@@ -1,0 +1,8 @@
+Memory hierarchy organizes storage in levels based on speed and cost.
+Levels:
+- Registers (fastest, smallest)
+- Cache (L1, L2, L3)
+- Main Memory (RAM)
+- Secondary Storage (SSD, HDD)
+- Tertiary Storage (optical disks, tapes)
+The goal is to provide a balance between performance and cost.

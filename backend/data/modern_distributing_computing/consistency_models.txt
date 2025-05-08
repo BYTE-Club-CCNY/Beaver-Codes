@@ -1,0 +1,6 @@
+Consistency models define the rules for visibility and ordering of updates.
+Types:
+- Strong consistency: all nodes see the same data instantly
+- Eventual consistency: all nodes will converge eventually
+- Causal consistency: respects cause-effect relationships
+Used in distributed databases like Cassandra, DynamoDB, and MongoDB.

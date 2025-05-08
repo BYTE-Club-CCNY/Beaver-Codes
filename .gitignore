@@ -1,3 +1,5 @@
 .env
 .venv
 *.gguf
+backend/db
+backend/db/*.sqlite3

@@ -1,0 +1,9 @@
+The Software Development Life Cycle (SDLC) describes the process of planning, creating, testing, and deploying software.
+Common SDLC phases:
+- Requirements Analysis
+- System Design
+- Implementation (Coding)
+- Testing
+- Deployment
+- Maintenance
+Models include Waterfall, Agile, Spiral, and V-Model.

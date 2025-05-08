@@ -1,0 +1,6 @@
+Communication in distributed systems often uses message passing.
+Protocols include:
+- TCP/IP: reliable, connection-based
+- UDP: faster but unreliable
+- HTTP/HTTPS: standard for web communication
+- gRPC: modern protocol using HTTP/2 and protocol buffers

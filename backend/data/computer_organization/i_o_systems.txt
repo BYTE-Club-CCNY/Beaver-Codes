@@ -1,0 +1,7 @@
+I/O (Input/Output) systems manage communication between the CPU and peripherals.
+Types:
+- Programmed I/O
+- Interrupt-driven I/O
+- Direct Memory Access (DMA)
+Devices include keyboards, displays, disks, and network interfaces.
+Efficient I/O design improves overall system performance.
