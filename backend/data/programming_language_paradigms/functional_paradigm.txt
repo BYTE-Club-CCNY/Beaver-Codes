@@ -1,0 +1,7 @@
+The functional paradigm emphasizes computation through mathematical functions and avoids changing state and mutable data.
+Languages: Haskell, Lisp, OCaml
+Key concepts:
+- First-class functions
+- Pure functions and immutability
+- Recursion over loops
+- Higher-order functions (e.g., map, reduce)

@@ -1,0 +1,7 @@
+Software testing ensures software correctness and quality.
+Types of testing:
+- Unit Testing: individual functions/components
+- Integration Testing: multiple components working together
+- System Testing: complete application
+- Acceptance Testing: meets customer requirements
+Other types: Regression, Smoke, Load, Stress testing

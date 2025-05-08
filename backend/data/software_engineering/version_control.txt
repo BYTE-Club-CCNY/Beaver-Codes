@@ -1,0 +1,8 @@
+Version control systems manage changes to source code over time.
+Popular systems:
+- Git: distributed version control
+- GitHub, GitLab, Bitbucket: platforms for collaboration
+Key concepts:
+- Commits, Branches, Merges
+- Pull Requests, Conflicts
+- Repositories (local and remote)

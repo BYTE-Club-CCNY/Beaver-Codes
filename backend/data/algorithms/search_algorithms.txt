@@ -1,0 +1,6 @@
+Search algorithms find a target element in a data structure.
+Types:
+- Linear Search: O(n), checks each element one by one.
+- Binary Search: O(log n), requires sorted list, halves the search space.
+- DFS (Depth-First Search): used in graphs/trees, explores as deep as possible.
+- BFS (Breadth-First Search): explores layer by layer, used in graphs.

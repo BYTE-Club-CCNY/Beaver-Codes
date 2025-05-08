@@ -1,0 +1,6 @@
+The imperative paradigm focuses on describing how a program operates using statements that change a program's state.
+Languages: C, Python, Java
+Key features:
+- Variables and assignments
+- Control structures: loops, conditionals
+- Step-by-step instructions

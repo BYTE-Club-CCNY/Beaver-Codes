@@ -1,0 +1,7 @@
+Logic programming is based on formal logic where programs consist of a set of facts and rules.
+Languages: Prolog
+Execution is done by querying and finding inferences from rules.
+Key features:
+- Declarative syntax
+- Backtracking and pattern matching
+- Rule-based computation

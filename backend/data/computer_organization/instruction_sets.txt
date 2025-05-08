@@ -1,0 +1,5 @@
+Instruction Set Architecture (ISA) defines the supported instructions of a CPU.
+Types:
+- CISC (Complex Instruction Set Computing): rich instruction set, e.g., x86
+- RISC (Reduced Instruction Set Computing): simple instructions, e.g., ARM
+Instructions include data movement, arithmetic, logical operations, and control flow.

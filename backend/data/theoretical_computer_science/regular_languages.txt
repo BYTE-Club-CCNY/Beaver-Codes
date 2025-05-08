@@ -1,0 +1,6 @@
+Regular languages are defined by regular expressions and finite automata.
+Key properties:
+- Closed under union, intersection, complement, and concatenation
+- Can be described by DFAs, NFAs, and regular expressions
+- Pumping Lemma is used to prove non-regularity
+Examples: strings with even number of 0s, or strings ending in "01"

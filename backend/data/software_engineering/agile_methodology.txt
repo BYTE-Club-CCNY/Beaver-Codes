@@ -1,0 +1,7 @@
+Agile is an iterative approach to software development that emphasizes flexibility and customer collaboration.
+Key concepts:
+- Sprints: time-boxed development cycles
+- Scrum: framework with roles (Scrum Master, Product Owner)
+- User Stories: short descriptions of user needs
+- Daily Stand-ups and Retrospectives
+Popular Agile tools: Jira, Trello, Asana

@@ -1,0 +1,4 @@
+Turing reducibility allows solving one problem using an oracle for another.
+If problem A can be reduced to problem B, we say A ≤T B.
+This concept is important in classifying undecidable problems and studying Turing degrees.
+Turing reducibility generalizes many computational reductions.

@@ -1,0 +1,7 @@
+Distributed algorithms operate across multiple nodes with limited local information.
+Examples:
+- Leader Election
+- Mutual Exclusion
+- Distributed Snapshot
+- Byzantine Fault Tolerance
+Used in blockchain, consensus systems, and cluster coordination.
