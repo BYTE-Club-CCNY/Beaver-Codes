@@ -2,3 +2,4 @@
 .venv
 *.gguf
 backend/db
+backend/db/*.sqplite
